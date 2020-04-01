@@ -1,0 +1,33 @@
+.logon-container {
+    width: 100%;
+    max-width: 1120px;
+    height: 100vh;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logon-container section.form {
+    width: 100%;
+    max-width: 250px;
+    margin-right: 30px;
+}
+
+.logon-container section.form form {
+    margin-top: 100px;
+}
+
+.logon-container section.form form h1{
+    font-size: 32px;
+    margin-bottom: 32px;
+}
+
+.register-container .content form .input-group {
+    display: flex;
+} 
+
+.register-container .content form .input-group input + input {
+    margin-left: 8px;
+}
