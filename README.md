@@ -1,5 +1,4 @@
-# Be the Hero
-## Seja um herói
+# Be the Hero ### Seja um herói
 
 ## Apresentação
 Esta aplicação foi desenvolvida na Semana Oministack 11 disponibilizada pela [Rocketseat](http://rocketseat.com.br/) minitrada pelo [Diego Fernandes](https://github.com/diego3g).
