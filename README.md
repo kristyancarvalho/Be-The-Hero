@@ -1,10 +1,15 @@
-# Be the Hero 
-### Seja um herói
+<h1 align="center">Be the Hero</h1>
 
-## Apresentação
-Esta aplicação foi desenvolvida na Semana Oministack 11 disponibilizada pela [Rocketseat](http://rocketseat.com.br/) minitrada pelo [Diego Fernandes](https://github.com/diego3g).
+<br />
 
-## Objetivo
-Esta aplicação tem o intuito de ajudar as ONG's (Organizações Não Governamentais) a mostrar seus casos e levantar fundos para realização de projetos.
+<h2>This app aims to help NGOs (Non-Governmental Organizations) to show their cases and raise funds to carry out projects.</h2>
 
+<br />
 
+<div align="center">
+  <img src="https://be-thehero.netlify.app/static/media/logo.7eea718b.svg"></img>
+</div>
+
+<hr />
+
+<h3 align="center">Developed by <a href="https://github.com/kriscrv/">Kristyan Carvalho</a>.</h3>
